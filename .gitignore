@@ -30,6 +30,11 @@ usr/bin/
 .jupyter/
 .jupyter-scala/
 
+# zsh
+.zcompdump-cyberdeck-5.8
+.zsh_history
+
+
 .tig_history
 .fehbg
 
