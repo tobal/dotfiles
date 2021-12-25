@@ -106,3 +106,6 @@ There are two things you can do about this warning:
 ; Org-mode TODO keywords
 (setq org-todo-keywords
   '((sequence "TODO(t)" "INPROGRESS(i)" "BLOCKED(b)" "|" "DONE(d)" "DIDNTDO(n)" "COULDNTDO(u)" "CANCELED(c)")))
+
+(setq org-agenda-include-diary t)
+(setq org-agenda-diary-file "~/usr/src/tobal/notes/self-sustainer/self-manager/diary.org")
